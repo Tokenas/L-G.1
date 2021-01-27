@@ -707,7 +707,7 @@ a[href*='tel'], a[href*='mailto'] {
 }
 
 .box-md {
-	max-width: 370px;
+	max-width: auto;
 	margin-left: auto;
 	margin-right: auto;
 }
